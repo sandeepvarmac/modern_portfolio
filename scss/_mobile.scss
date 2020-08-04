@@ -66,16 +66,6 @@
   .projects {
     grid-template-columns: repeat(2, 1fr);
   }
-
-  .about-info {
-    grid-template-areas:
-      "bio-image"
-      "bio"
-      "job-1"
-      "job-2"
-      "job-3";
-    grid-template-columns: 1fr;
-  }
 }
 
 // Smartphones
